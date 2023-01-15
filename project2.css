@@ -1,0 +1,107 @@
+body{
+    background-image: url("../IMAGES/project2back.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+}
+body #outer{
+    background-color:rgba(255, 255, 255, 0.3);
+    margin: 0px;
+    border: 1px solid rgb(252, 252, 252);
+}
+#heading{
+    width: 420px;
+    height: 360px;
+    text-align: center;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-left: 35%;
+}
+header{
+    margin-top: 300px;
+    background-color:rgb(88,88,88);
+    color:white;
+    padding: 14px;
+    letter-spacing: 5px;
+}
+#section1{
+    background-color:rgb(244,244,244);
+    text-align: center;
+    line-height:30px ;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+    border: 1px solid white;
+}
+#section1 h3{
+color: rgb(102,102,102);
+margin-top:50px;
+}
+#section1 p{
+    padding: 20px;
+    color:rgb(124,102,102) ;
+}
+.image2{
+    background-image: url("../IMAGES/project2back2.jpg");
+    height: 350px;
+    border: 0px solid white;
+    border-bottom:1px solid rgb(40,46,52);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+}
+#blur{
+    background-color:rgba(252, 252, 252,.3);
+    height: 350px;
+    border: 1px solid white;
+    border-bottom:1px solid rgb(40,46,52);
+}
+#blur p{
+    margin-top: 190px;
+    margin-left: 37%;
+    font-size:30px ;
+    letter-spacing: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+#section2{
+    background-color:rgb(40,46,52);
+    text-align: center;
+    line-height:30px ;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+    border: 1px solid rgb(40,46,52);
+}
+#section2 h3{
+    color: rgb(221,221,221);
+    padding: 20px;
+}
+#section2 p{
+    color: rgb(221,221,210);
+    padding: 20px;
+}
+.image3{
+    background-image: url("../IMAGES/project2back3.jpg");
+    height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 0.1px solid white;
+    margin: 0px;
+}
+#blur2{
+    background-color: rgba(252, 252, 252,.3);
+    height: 350px;
+    border: 1px solid white;
+}
+#blur2 p{
+    margin-top: 190px;
+    margin-left: 35%;
+    font-size:30px ;
+    letter-spacing: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+section,div,body{
+    margin: 0px;
+}
